@@ -1,4 +1,4 @@
-# Conversational Q&A Chatbot with LangChain, Groq, and ChromaDB 🤖
+# Conversational Q&A Chatbot with LangChain, Groq, and ChromaDB 
 
 A **conversational question-answering chatbot** built using **LangChain**, **Groq LLaMA 3.1**, **ChromaDB**, and **Hugging Face embeddings**.  
 This project demonstrates how to implement **Retrieval-Augmented Generation (RAG)** to answer questions based on custom data rather than only relying on a language model’s internal knowledge.
